@@ -1,0 +1,19 @@
+.thumbnail img { /* img inside .thumbnail */
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full { /* .caption-full inside .thumbnail */
+    padding: 9px;
+}
+
+#deleteForm {
+    display: inline;
+}
+
+#deleteCommentButton {
+    display: inline;
+}
